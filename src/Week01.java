@@ -46,7 +46,7 @@ public class Week01VariablesAndOperationsLab {
 	
 
 		// 9. Impulse candy bar purchase, add 2.15 to the grocery total
-		// 		costOfGroceries = costOfGroceries + 2.15;
+		// 	
 
 
 		// 10.  The birth certificate was printed incorrectly, 
